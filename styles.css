@@ -7,4 +7,5 @@ body {
     margin: auto;
     overflow: hidden;
     overscroll-behavior-y: none;
+    font-weight: bold;
 }
